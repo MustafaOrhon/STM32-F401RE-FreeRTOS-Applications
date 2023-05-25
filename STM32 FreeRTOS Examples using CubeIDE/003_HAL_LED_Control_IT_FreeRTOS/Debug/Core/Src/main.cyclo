@@ -1,0 +1,6 @@
+main.c:67:5:main	1
+main.c:136:6:SystemClock_Config	3
+main.c:183:13:MX_GPIO_Init	1
+main.c:227:6:LedControlTask	6
+main.c:265:6:Error_Handler	1
+main.c:292:6:HAL_GPIO_EXTI_Callback	3
